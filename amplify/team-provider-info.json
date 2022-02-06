@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "todoapp1898d51b": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d199thvy9fqyx0",
+          "type": "manual"
+        }
       }
     }
   }
